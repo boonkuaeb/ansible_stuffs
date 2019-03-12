@@ -1,0 +1,6 @@
+.retry
+.tar.gz
+.tgz
+.zip
+
+playbooks/docker.retry
